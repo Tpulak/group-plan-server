@@ -11,7 +11,7 @@
 
 ## Intro
 
-This is the Repository for the backend client of the Group Plan application.
+This repository was developed as part of my CSCI 49900 capstone class. It was initially cloned from the main repository and includes the completed backend for the Group Plan application.
 
 The backend is powered by our two different microservices, Recipes and Users. It is intended to follow REST principles where different routes can describe different objects and various methods can perform CRUD operations on our database.
 
